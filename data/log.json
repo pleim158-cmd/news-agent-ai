@@ -3579,6 +3579,56 @@
       "mode": "monitor",
       "fp": "four oil tankers blaze in strait of hormuz after hitting",
       "date": "2026-10-31"
+    },
+    {
+      "headline": "Unchecked Ebola Outbreak Surpasses 10,000 Cases Across Africa",
+      "summary": "More than 10,000 people have now caught Ebola in an exploding outbreak that has pushed local clinics past the breaking point. Aid workers are running low on protective gear, and patients are traveling across porous borders looking for help. Top health officials warn that without an immediate surge of international money and medicine, the virus could easily jump onto international flights.",
+      "why": "A runaway virus behaves like a fire in a crowded room, meaning an uncontrolled spread anywhere quickly threatens public health everywhere.",
+      "domain": "Health",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "unchecked ebola outbreak surpasses 10 000 cases across africa",
+      "date": "2026-10-31"
+    },
+    {
+      "headline": "Hackers Drain Record $6.3 Billion from Crypto Exchange Binance",
+      "summary": "Burglars pulled off the biggest digital heist in history by breaking into crypto giant Binance and swiping roughly $6.3 billion. The thieves slipped past internal safeguards, creating widespread market panic and forcing the platform to pause withdrawals. Law enforcement agencies around the world are now tracing the stolen coins, with signs pointing toward a state-backed cyber squad.",
+      "why": "When the world's biggest digital vault gets cracked open, it shatters ordinary savers' trust and practically invites governments to clamp down with heavy regulations.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "hackers drain record 6 3 billion from crypto exchange binance",
+      "date": "2026-10-31"
+    },
+    {
+      "headline": "Trapped Civilians Escape Besieged Ukrainian City as US Sends 500 Patriot Missiles",
+      "summary": "Hundreds of trapped civilians finally evacuated the ruined, Russian-held city of Oleshky after surviving for months cut off from food and clean water. At the same time, Washington cleared a major deal to supply Ukraine with 500 Patriot interceptor missiles to guard its power grid this winter. The day highlighted the war's sharp contrast between fragile humanitarian deals and a massive, long-term military buildup.",
+      "why": "The tug-of-war in Ukraine directly controls European energy bills, global grain flows, and how safe neighboring nations feel.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "trapped civilians escape besieged ukrainian city as us sends 500",
+      "date": "2026-10-31"
+    },
+    {
+      "headline": "Brazil Enters Political Turmoil as Disputed Election Sparks Accusations",
+      "summary": "Following a razor-thin presidential vote, challenger Fl\u00e1vio Bolsonaro traveled to Florida and proclaimed himself Brazil's true winner over President Luiz In\u00e1cio Lula da Silva. President Lula quickly pushed back, accusing foreign political factions of helping undermine his country's legal vote. While election authorities validated the official count, the public dispute has ignited protests and deep distrust between rival political camps.",
+      "why": "Instability in Latin America's economic anchor threatens international farm exports, rainforest protections, and democratic trust across the region.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "brazil enters political turmoil as disputed election sparks accusations",
+      "date": "2026-10-31"
+    },
+    {
+      "headline": "Israel's Wartime Election Finishes in Complete Stalemate",
+      "summary": "Israel held its first election since the Gaza war started, but neither Prime Minister Benjamin Netanyahu nor his rivals won enough seats to form a working majority. Both sides must now spend weeks sweet-talking rival factions just to patch together a fragile, short-lived ruling group. The deadlock leaves major foreign policy and defense choices stuck in neutral during an already volatile period.",
+      "why": "No ceasefire deal, hostage return, or long-term plan for the Middle East can stick while the country making the decisions is trapped in political limbo.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "israel s wartime election finishes in complete stalemate",
+      "date": "2026-10-31"
     }
   ]
 }
