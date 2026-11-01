@@ -3579,6 +3579,56 @@
       "mode": "morning",
       "fp": "youth cost of living protests turn violent across germany",
       "date": "2026-11-01"
+    },
+    {
+      "headline": "Tanker Strike Strains Persian Gulf Shipping as US and Iran Talk",
+      "summary": "A Qatari gas tanker was hit near the Strait of Hormuz, leaving commercial vessels and oil carriers backed up off the coast. At the same time, American and Iranian diplomats are trading messages through mediators in Qatar to prevent an all-out military clash. When this narrow waterway gets choked, it acts like a kink in the garden hose for the entire world's energy supply.",
+      "why": "Any prolonged disruption to Gulf shipping can trigger an immediate spike in global fuel bills and pull regional powers into open war.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "tanker strike strains persian gulf shipping as us and iran",
+      "date": "2026-11-01"
+    },
+    {
+      "headline": "Hackers Steal $6.3 Billion from Binance in Historic Heist",
+      "summary": "Binance confirmed that thieves stole $6.3 billion worth of digital assets, making it the largest cryptocurrency robbery ever recorded. Federal investigators pointed the finger at state-backed hackers from North Korea, while the exchange scrambled to reopen withdrawals. It amounts to an entire digital vault being drained overnight, exposing deep holes in modern online financial plumbing.",
+      "why": "A loss of this size shakes confidence across global crypto markets and funnels billions in untraceable cash into an isolated regime's budget.",
+      "domain": "Technology",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "hackers steal 6 3 billion from binance in historic heist",
+      "date": "2026-11-01"
+    },
+    {
+      "headline": "Rare Ceasefire Evacuates Hundreds Trapped in Besieged Ukrainian Town",
+      "summary": "Hundreds of Ukrainian civilians cut off from food and medical care in Russian-occupied Oleshky were brought out safely under a local truce. The rescue corridor was arranged through unusual backchannel talks involving U.S. and Vatican mediators. For trapped families, it ended months of surviving on garden scraps while stranded in a ruined frontline combat zone.",
+      "why": "Beyond rescuing starving civilians, the breakthrough proves that quiet bargaining can still open humanitarian cracks in an otherwise frozen conflict.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "rare ceasefire evacuates hundreds trapped in besieged ukrainian town",
+      "date": "2026-11-01"
+    },
+    {
+      "headline": "Cost-of-Living Protests Turn Violent Across Major German Cities",
+      "summary": "Tens of thousands of young demonstrators flooded streets across Germany to demand cheaper housing, fair wages, and better schools. Rallies in cities like Frankfurt quickly turned into clashes and store break-ins, drawing vows of a police crackdown from ministers. It feels like the economic safety valve is hissing in a country long treated as Europe's most stable anchor.",
+      "why": "Widespread youth unrest shows that inflation is eating away at the living standards and social peace of Europe's biggest economy.",
+      "domain": "Society",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "cost of living protests turn violent across major german cities",
+      "date": "2026-11-01"
+    },
+    {
+      "headline": "Police Enter Poland's Top Court as Judicial Standoff Escalates",
+      "summary": "A long dispute over Poland's legal system reached a breaking point when police moved onto Constitutional Tribunal grounds after the court president was suspended. The pro-EU government says the court was packed illegally by the previous administration, while conservatives call the suspension a coup. It is like having two rival sets of referees blowing their whistles on the same field, with neither agreeing to walk off.",
+      "why": "The crisis threatens judicial authority and political stability inside a key NATO border state during a time of European security jitters. ",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "police enter poland s top court as judicial standoff escalates",
+      "date": "2026-11-01"
     }
   ]
 }
