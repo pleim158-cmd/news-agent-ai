@@ -3629,6 +3629,56 @@
       "mode": "afternoon",
       "fp": "police enter poland s top court as judicial standoff escalates",
       "date": "2026-11-01"
+    },
+    {
+      "headline": "US-Iran standoff threatens Strait of Hormuz oil flow",
+      "summary": "Washington and Tehran are trading sharp warnings as Iran hints it could shut down the Strait of Hormuz unless sanctions ease. The White House says military targets remain on the table, while Iranian generals promise an all-out response if attacked. Mediators are rushing to broker talks, but both sides have their fingers close to the trigger.",
+      "why": "If this narrow waterway gets blocked, it would pinch the world's main energy artery and send gas prices through the roof everywhere.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "us iran standoff threatens strait of hormuz oil flow",
+      "date": "2026-11-01"
+    },
+    {
+      "headline": "African Ebola outbreak surges past ten thousand cases",
+      "summary": "A deadly Ebola outbreak has now topped 10,000 cases across Africa, prompting urgent warnings from top health authorities. Clinics are overwhelmed, and international health agencies warn the virus could soon spread across borders to other continents. Emergency supplies are trickling into affected areas, but frontline doctors say global support is arriving far too slowly.",
+      "why": "An out-of-control epidemic can quickly jump borders, straining health care systems and threatening global travel.",
+      "domain": "Health",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "african ebola outbreak surges past ten thousand cases",
+      "date": "2026-11-01"
+    },
+    {
+      "headline": "Local Ukraine truce collapses as fighting flares around Kherson",
+      "summary": "A brief, localized pause in combat around Kherson and Oleshky has expired, bringing heavy shelling back to southern Ukraine. While the short lull let emergency convoys evacuate some trapped civilians, broader talks for an energy ceasefire failed to hold. Strikes are once again targeting power stations just as winter temperatures begin to plunge.",
+      "why": "Knocking out heating grids as winter arrives weaponizes the freezing weather against millions of everyday people.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "local ukraine truce collapses as fighting flares around kherson",
+      "date": "2026-11-01"
+    },
+    {
+      "headline": "Hackers steal six billion dollars from crypto giant Binance",
+      "summary": "Cyber thieves stole $6.3 billion worth of digital assets from Binance in the largest heist in cryptocurrency history. Federal investigators blame North Korean state hackers, who routinely use cyber raids to bankroll their weapons programs. Binance replaced the lost funds to protect users, but the breach has shaken trust across the financial technology sector.",
+      "why": "Losing a fortune in seconds proves how fragile digital vaults remain and shows how rogue regimes can secretly fund their arsenals.",
+      "domain": "Technology",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "hackers steal six billion dollars from crypto giant binance",
+      "date": "2026-11-01"
+    },
+    {
+      "headline": "Cost-of-living riots shake German cities amid draft backlash",
+      "summary": "Tens of thousands of young Europeans flooded the streets of Frankfurt to protest soaring living expenses and talk of mandatory military service. Marches turned chaotic as rioters clashed with police and looted downtown storefronts, prompting vows of a harsh crackdown from government ministers. The demonstrations reflect widespread burnout among younger generations who feel economically trapped and worried about impending war.",
+      "why": "Street clashes in Europe's richest economy show how quickly inflation and military anxiety can tear at basic social stability.",
+      "domain": "Society",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "cost of living riots shake german cities amid draft backlash",
+      "date": "2026-11-01"
     }
   ]
 }
