@@ -3529,6 +3529,56 @@
       "mode": "evening",
       "fp": "israel s wartime election finishes in complete stalemate",
       "date": "2026-10-31"
+    },
+    {
+      "headline": "US and Iran Trade Strike Threats as Gulf Shipping Gets Hit",
+      "summary": "Donald Trump warned the US could hit Iran's remaining nuclear sites in minutes, while Tehran vowed all-out retaliation after blasts damaged a Qatari gas tanker in the Gulf. Washington is ramping up military threats right before US elections, while Iran insists any strike will drag the entire region into war. It feels like two drivers playing chicken on a narrow bridge, with neither side willing to pump the brakes.",
+      "why": "A fresh spark in the Gulf could choke off the Strait of Hormuz, instantly driving up fuel costs and grocery bills across the globe.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "us and iran trade strike threats as gulf shipping gets",
+      "date": "2026-11-01"
+    },
+    {
+      "headline": "Justice Department Challenges Alaska Ballots Days Ahead of Midterms",
+      "summary": "Alaska state attorneys urged a federal judge to dismiss a Trump administration lawsuit demanding the state set aside and segregate ballots in a pivotal US Senate race. The White House claims voters might get confused by two candidates sharing the same name, while state officials call the demand legally impossible and an attack on ballot secrecy. It is like a coach demanding a referee change the rules five minutes before the final whistle because the score is too tight.",
+      "why": "Control of the entire US Senate could hinge on this single race, meaning a messy legal standoff could stall national lawmaking for months.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "justice department challenges alaska ballots days ahead of midterms",
+      "date": "2026-11-01"
+    },
+    {
+      "headline": "Chinese Vessels Shadow Taiwan in Deep-Sea Cable Standoff",
+      "summary": "Taiwanese patrol boats confronted Chinese coast guard ships that pushed into restricted waters, while regional monitors spotted Chinese research vessels surveying undersea internet cables. Taipei warns Beijing is rehearsing a full maritime blockade off its eastern flank, while China insists it is simply policing its own backyard. Instead of throwing a punch, Beijing is quietly testing how easily it could choke off the island's lifelines.",
+      "why": "These waters carry critical undersea data cables and semiconductor shipping lanes that keep the entire global digital economy running.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "chinese vessels shadow taiwan in deep sea cable standoff",
+      "date": "2026-11-01"
+    },
+    {
+      "headline": "Ukraine and Turkey Push New Black Sea Food Corridor",
+      "summary": "Ukrainian President Volodymyr Zelenskyy met Turkish leader Recep Tayyip Erdo\u011fan in Istanbul to revive safe Black Sea shipping routes and lay groundwork for trilateral talks. Both leaders want guarantees for commercial vessels carrying grain, even as Russian airstrikes keep battering Ukrainian energy facilities. It is like trying to fix the plumbing in an apartment while the landlord and neighbor are still throwing rocks through the windows.",
+      "why": "Keeping Ukrainian grain moving prevents famine and price spikes in bread across vulnerable nations in Africa and the Middle East.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "ukraine and turkey push new black sea food corridor",
+      "date": "2026-11-01"
+    },
+    {
+      "headline": "Youth Cost-of-Living Protests Turn Violent Across Germany",
+      "summary": "Tens of thousands of young demonstrators rallied in over thirty German cities against soaring living expenses, austerity cuts, and military draft plans, sparking clashes and looting in Frankfurt and Berlin. The unrest spilled over from weeks of youth riots in France, organized under the banner of 'Gen Z Takes Charge'. Officials blame extremist infiltrators, but underneath is a generation convinced they have been handed an unaffordable future by leaders who ignore them.",
+      "why": "Widespread street unrest in Europe's economic powerhouse threatens political stability just as governments try to fund both social safety nets and record defense budgets.",
+      "domain": "Society",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "youth cost of living protests turn violent across germany",
+      "date": "2026-11-01"
     }
   ]
 }
