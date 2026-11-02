@@ -3519,6 +3519,56 @@
       "mode": "evening",
       "fp": "cost of living riots shake german cities amid draft backlash",
       "date": "2026-11-01"
+    },
+    {
+      "headline": "FDA clears $40 generic shot to prevent HIV worldwide",
+      "summary": "US regulators approved the first cheap version of lenacapavir, a shot taken just twice a year to block HIV. Instead of costing thousands of dollars, it will sell for around $40 a year in over 120 developing countries. Think of it like turning an expensive luxury medicine into an affordable public bus pass.",
+      "why": "It gives developing nations an affordable tool that could realistically halt new HIV infections for good.",
+      "domain": "Health",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "fda clears 40 generic shot to prevent hiv worldwide",
+      "date": "2026-11-02"
+    },
+    {
+      "headline": "Record $6.3 billion heist hits crypto giant Binance",
+      "summary": "Thieves stole roughly $6.3 billion in digital assets from Binance in the largest crypto robbery to date. The exchange is trying to contain the damage, but digital asset prices took a sharp hit across the board. It feels like a massive bank heist, only pulled off with code instead of dynamite.",
+      "why": "A loss of this size threatens market confidence and will likely speed up tough global regulations on digital money.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "record 6 3 billion heist hits crypto giant binance",
+      "date": "2026-11-02"
+    },
+    {
+      "headline": "Russian strike crushes crowded Ukrainian aid hub",
+      "summary": "A Russian bomb struck a humanitarian relief station distributing food in Ukraine's Zaporizhzhia region, killing dozens and leaving many missing. The blast ripped through families who were waiting in line for basic groceries. With freezing temperatures setting in, hitting relief hubs leaves whole communities with nowhere to turn for food or warmth.",
+      "why": "Targeting lifeline centers breaks the aid network right when civilians need food and shelter most to survive winter.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "russian strike crushes crowded ukrainian aid hub",
+      "date": "2026-11-02"
+    },
+    {
+      "headline": "Hackers remotely spoil supermarket food across Europe",
+      "summary": "Cyberattacks struck grocery chains across several European countries by messing with their commercial fridges and freezers. Hackers caused cooling systems to overheat, spoiling large amounts of fresh food right on the shelves. It proves that digital attacks can directly disrupt the trucks and shelves that feed people.",
+      "why": "It reveals how vulnerable everyday food supplies are when ordinary cooling equipment is tied to the internet.",
+      "domain": "Technology",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "hackers remotely spoil supermarket food across europe",
+      "date": "2026-11-02"
+    },
+    {
+      "headline": "US midterms enter the final sprint with Congress on the line",
+      "summary": "Americans are casting ballots in high-stakes midterm elections that will determine which party controls Congress. Key battleground races remain extremely close as voters weigh inflation, government spending, and foreign wars. The outcome will either give the president a clear path forward or lock Washington in gridlock.",
+      "why": "Whoever wins control will steer US tax laws, military aid, and trade policy for the next two years.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "us midterms enter the final sprint with congress on the",
+      "date": "2026-11-02"
     }
   ]
 }
