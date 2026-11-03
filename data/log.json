@@ -3469,6 +3469,16 @@
       "mode": "evening",
       "fp": "russian strike kills 26 in ukraine aid hub amid app",
       "date": "2026-11-03"
+    },
+    {
+      "headline": "US strikes Iran's strategic Qeshm Island in Strait of Hormuz",
+      "summary": "The US military hit targets on Iran's Qeshm Island after Iranian forces fired surface-to-air missiles at American aircraft. Washington insists the strikes were a limited, defensive move to protect commercial shipping through the narrow water passage. Several loud blasts shook the island just as both sides were publicly hinting at progress in peace talks.",
+      "why": "Striking sovereign Iranian territory right at the world's most vital oil bottleneck is like lighting a match near a fuel tank. It threatens to wreck fragile ceasefire talks, spark retaliatory missile barrages across the Persian Gulf, and choke global oil shipments overnight.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "us strikes iran s strategic qeshm island in strait of",
+      "date": "2026-11-03"
     }
   ]
 }
