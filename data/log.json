@@ -3479,6 +3479,56 @@
       "mode": "monitor",
       "fp": "us strikes iran s strategic qeshm island in strait of",
       "date": "2026-11-03"
+    },
+    {
+      "headline": "U.S. Strikes Iranian Targets Near the Blocked Strait of Hormuz",
+      "summary": "American forces launched strikes on Iran's Qeshm Island following clashes in the strategic waterway. Mediators in Qatar and Oman are racing against the clock to broker a deal that could reopen the passage and bring down oil prices. The standoff has choked off a quarter of the world's seaborne energy supplies for months.",
+      "why": "If this vital shipping bottleneck stays closed or catches fire, energy bills and transport costs will spike for billions of families worldwide.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "u s strikes iranian targets near the blocked strait of",
+      "date": "2026-11-03"
+    },
+    {
+      "headline": "Americans Vote in Crucial Midterm Elections",
+      "summary": "Voters across the United States are casting ballots to decide who controls Congress for the remainder of Donald Trump's presidency. The election turns heavily on soaring living costs and public frustration over foreign conflicts. The outcome will determine whether the administration faces total legislative gridlock or gets a green light for its agenda.",
+      "why": "Who wins control in Washington sets the economic and trade policies for the world's biggest economy.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "americans vote in crucial midterm elections",
+      "date": "2026-11-03"
+    },
+    {
+      "headline": "U.S. Mediates Fresh Ukraine-Russia Talks in Abu Dhabi",
+      "summary": "Delegations from Kyiv and Moscow have agreed to meet in the United Arab Emirates next week for their first trilateral negotiations in months. Even as envoys prepare to discuss postwar security arrangements, heavy fighting continues on the ground with strikes pounding energy facilities. Disagreements remain deep over occupied land and long-term security guarantees.",
+      "why": "This meeting is the clearest diplomatic opening in months to halt the continent's deadliest land war and redraw Europe's security map.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "u s mediates fresh ukraine russia talks in abu dhabi",
+      "date": "2026-11-03"
+    },
+    {
+      "headline": "Mysterious Cyberattacks Spoil Supermarket Freezers Across Europe",
+      "summary": "Hackers remotely took over refrigeration systems in dozens of grocery stores across at least seven European countries, turning freezers up to blistering heat. Supermarket staff were forced to throw away tons of ruined meat, dairy, and frozen food. European officials warned that the coordinated sabotage looks like a deliberate probe of basic civilian supply networks.",
+      "why": "It shows how digital sabotage can quietly bypass military defenses to threaten everyday food supplies on grocery shelves.",
+      "domain": "Technology",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "mysterious cyberattacks spoil supermarket freezers across europe",
+      "date": "2026-11-03"
+    },
+    {
+      "headline": "Violent Protests and Factory Closures Shake Bangladesh Garment Industry",
+      "summary": "Hundreds of clothing factories around Dhaka halted operations as garment workers clashed with police over low pay and runaway inflation. Demonstrators are demanding a living wage more than double their current baseline pay. Because Bangladesh is the world's second-biggest apparel exporter, the shutdowns are stalling shipments for major global clothing brands.",
+      "why": "The unrest threatens the livelihoods of millions of low-income workers while straining global apparel supply chains ahead of the next retail season.",
+      "domain": "Society",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "violent protests and factory closures shake bangladesh garment industry",
+      "date": "2026-11-03"
     }
   ]
 }
