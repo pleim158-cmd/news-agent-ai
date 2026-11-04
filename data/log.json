@@ -3469,6 +3469,16 @@
       "mode": "morning",
       "fp": "violent protests and factory closures shake bangladesh garment industry",
       "date": "2026-11-03"
+    },
+    {
+      "headline": "Democrats win control of both the U.S. House and Senate",
+      "summary": "In the 2026 midterm elections overnight, Democrats flipped both chambers of Congress. Voters pushed back against rising costs and foreign policy moves, taking away the Republican majority on Capitol Hill.",
+      "why": "This completely flips the power dynamic in Washington. Losing Congress puts a hard brake on the White House agenda: the president can no longer push laws, budgets, or judicial appointments through without the opposition party's approval.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "democrats win control of both the u s house and",
+      "date": "2026-11-04"
     }
   ]
 }
