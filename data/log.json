@@ -3479,6 +3479,56 @@
       "mode": "monitor",
       "fp": "democrats win control of both the u s house and",
       "date": "2026-11-04"
+    },
+    {
+      "headline": "Devastating Russian strike on Ukrainian aid hub shatters truce hopes",
+      "summary": "A major Russian airstrike hit a crowded humanitarian aid center in the Zaporizhzhia region, leaving dozens dead and many more trapped under rubble. Ukrainian officials called the assault one of the war's most brutal attacks on civilians yet. The bloodshed effectively destroys recent behind-the-scenes attempts to hammer out a temporary energy ceasefire.",
+      "why": "Hitting relief hubs during delicate peace talks pushes any chance of a diplomatic exit ramp further out of reach.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "devastating russian strike on ukrainian aid hub shatters truce hopes",
+      "date": "2026-11-04"
+    },
+    {
+      "headline": "Record cyber heist drains $6.3 billion from Binance",
+      "summary": "Thieves pulled off the biggest cryptocurrency theft in history by siphoning over six billion dollars from the world's leading crypto exchange. Binance confirmed the breach, which immediately sent shockwaves across digital asset markets and triggered panic withdrawals. Security teams are still piecing together how the hackers slipped past multi-layer security barriers.",
+      "why": "A theft of this magnitude shatters confidence in digital banking and guarantees aggressive global regulatory crackdowns.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "record cyber heist drains 6 3 billion from binance",
+      "date": "2026-11-04"
+    },
+    {
+      "headline": "Houthi advance deepens Yemen crisis as regional alliances shift",
+      "summary": "Houthi forces captured new territory across southwestern Yemen, cutting off critical supply roads and worsening an already severe hunger crisis. At the same time, regional powers warn that the wider war involving Iran is spiraling beyond anyone's control. The chaos comes as Washington announced a sudden pause on billions in annual arms funding to Israel, throwing old security pacts into doubt.",
+      "why": "Renewed territorial shifts in Yemen threaten vital Red Sea trade routes and leave millions of trapped civilians without food or medical care.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "houthi advance deepens yemen crisis as regional alliances shift",
+      "date": "2026-11-04"
+    },
+    {
+      "headline": "Democrats sweep US midterms as voters push back on Iran war",
+      "summary": "Voters handed control of Congress back to Democrats in a decisive midterm election driven by anger over the escalating conflict with Iran. Vice President JD Vance publicly admitted that frustration with the war was the main reason Republicans suffered heavy losses. With the legislative branch flipping, the White House now faces steep budget roadblocks to keep funding foreign military campaigns.",
+      "why": "A divided American government puts the brakes on foreign wars and could force a rapid reassessment of overseas military entanglements.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "democrats sweep us midterms as voters push back on iran",
+      "date": "2026-11-04"
+    },
+    {
+      "headline": "Hackers hit European food supply chains and French blood banks",
+      "summary": "Cyberattackers breached temperature-control networks across Europe, remotely shutting down supermarket freezers and compromising systems at French blood banks. The sabotage spoiled essential medical and food supplies, forcing local authorities to switch to manual emergency operations. Security agencies suspect state-backed groups are testing how easily they can paralyze daily civilian necessities.",
+      "why": "It proves that digital weapons can quietly shut down basic survival services like food storage and hospitals without firing a single bullet.",
+      "domain": "Technology",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "hackers hit european food supply chains and french blood banks",
+      "date": "2026-11-04"
     }
   ]
 }
