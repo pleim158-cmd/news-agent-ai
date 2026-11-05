@@ -3479,6 +3479,16 @@
       "mode": "evening",
       "fp": "central africa battles its deadliest ebola surge as cases top",
       "date": "2026-11-05"
+    },
+    {
+      "headline": "Democrats Win Control of the U.S. Congress",
+      "summary": "Final election returns confirmed that Democrats flipped both chambers of Congress. Voters pushed back hard against high prices and foreign conflict, taking back seats that had been in Republican hands for generations.",
+      "why": "This completely upends the balance of power in Washington. It acts like an emergency brake on the administration's agenda, putting the federal checkbook and oversight of military action directly into the opposition's hands.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "democrats win control of the u s congress",
+      "date": "2026-11-05"
     }
   ]
 }
