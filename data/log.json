@@ -3539,6 +3539,26 @@
       "mode": "morning",
       "fp": "coordinated aviation threats snarl flights across europe",
       "date": "2026-11-05"
+    },
+    {
+      "headline": "Wall Street tech rout sparks a severe market sell-off",
+      "summary": "Investors dumped semiconductor and artificial intelligence stocks in a massive panic today. The tech-heavy Nasdaq dropped over 5% and the Dow Jones slid around 1,700 points, vaporizing nearly $2 trillion in market value in hours. It felt like someone pulled the plug on a runaway tech party.",
+      "why": "A sudden 5% single-day crash in benchmark tech indices that wipes out trillions of dollars is a severe financial shock, with immediate ripple effects across global banking, pensions, and business investment.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "wall street tech rout sparks a severe market sell off",
+      "date": "2026-11-05"
+    },
+    {
+      "headline": "California empties America's largest death row in historic mass clemency",
+      "summary": "Governor Gavin Newsom signed an executive order commuting the sentences of all 548 people on California's death row. Every condemned inmate had their sentence reduced to life in prison without parole.",
+      "why": "This is the largest mass clemency of capital punishment prisoners in modern U.S. history. It permanently ends death row in the nation's most populous state with the stroke of a pen.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "california empties america s largest death row in historic mass",
+      "date": "2026-11-05"
     }
   ]
 }
