@@ -3489,6 +3489,56 @@
       "mode": "monitor",
       "fp": "democrats win control of the u s congress",
       "date": "2026-11-05"
+    },
+    {
+      "headline": "The U.S.-Iran War Keeps Squeezing Global Energy",
+      "summary": "The eight-month conflict between Washington and Tehran continues to rattle vital oil shipping lanes around the Persian Gulf. The fighting has pushed up fuel costs around the world and forced allies like South Korea to stretch their navies into high-risk waters. Even with rising domestic anger over the war, both governments remain locked in strikes and counterstrikes with no clear exit ramp.",
+      "why": "When oil chokepoints get risky, shipping becomes expensive, which quickly drives up everyday transport and food bills for billions of people.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "the u s iran war keeps squeezing global energy",
+      "date": "2026-11-05"
+    },
+    {
+      "headline": "Democrats Win Back Congress in Massive Midterm Wave",
+      "summary": "Voters handed control of both chambers of Congress to the Democrats after turning out in huge numbers. Everyday families punished the ruling party over painful grocery bills, broad trade tariffs, and an unpopular war in the Middle East. President Trump still keeps his veto pen, but his administration has lost the easy runway to pass laws.",
+      "why": "A divided capital slams the brakes on unilateral policies and forces the White House to negotiate every dollar it wants to spend.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "democrats win back congress in massive midterm wave",
+      "date": "2026-11-05"
+    },
+    {
+      "headline": "Election Shakeup Reopens Western Support for Ukraine",
+      "summary": "Kyiv is preparing for a reset after the midterm vote, hoping the new congressional majority will unblock frozen military and economic aid. European capitals are also trying to match that momentum so they can keep their joint front against Moscow from crumbling. The result gives Ukraine a second wind just as its defense lines were feeling the pinch of dwindling supplies.",
+      "why": "Ukraine's chances of holding off Russian advances rely entirely on whether the flow of foreign ammunition and cash stays steady.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "election shakeup reopens western support for ukraine",
+      "date": "2026-11-05"
+    },
+    {
+      "headline": "Hong Kong Jails Joshua Wong for Another Ten Years",
+      "summary": "A Hong Kong court handed thirty-year-old activist Joshua Wong an extra decade in prison under national security laws for urging foreign pressure on Beijing. He had already spent years in a cell and was just weeks away from completing his earlier sentence. The fresh sentence effectively guarantees the city's most visible youth leader will stay behind bars until his forties.",
+      "why": "It confirms to the world that Beijing has permanently closed the book on open political opposition and traditional freedoms in the financial hub.",
+      "domain": "Society",
+      "severity": "MEDIUM",
+      "mode": "morning",
+      "fp": "hong kong jails joshua wong for another ten years",
+      "date": "2026-11-05"
+    },
+    {
+      "headline": "Coordinated Aviation Threats Snarl Flights Across Europe",
+      "summary": "A second wave of anonymous bomb scares this week forced commercial airliners into emergency diversions at airports across Europe. Security agencies are investigating whether the false alarms are coordinated online pranks or a calculated effort by hostile actors to sow confusion. While no explosives were found, the scares have tied aviation hubs in knots and exposed how vulnerable open transport systems are.",
+      "why": "It proves that bad actors can use cheap, low-effort scare tactics to cause millions in economic chaos and shake public trust in travel safety.",
+      "domain": "Society",
+      "severity": "MEDIUM",
+      "mode": "morning",
+      "fp": "coordinated aviation threats snarl flights across europe",
+      "date": "2026-11-05"
     }
   ]
 }
