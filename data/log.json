@@ -3549,6 +3549,26 @@
       "mode": "evening",
       "fp": "untitled",
       "date": "2026-11-06"
+    },
+    {
+      "headline": "Paraguay's President Resigns and Faces Impeachment After Massive Bank Collapse",
+      "summary": "Paraguayan President Santiago Pe\u00f1a abruptly resigned and was impeached by the lower house after digital lender Ueno Bank went bust. The bank had accounts for roughly three million people\u2014around sixty percent of the country's adults. Regulators froze accounts after finding bad insider loans, leaving millions unable to access their savings, pensions, or grocery money and sparking nationwide protests.",
+      "why": "A sudden run on a systemically vital bank locked ordinary citizens out of their life savings and triggered the rapid collapse of an entire national government.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "paraguay s president resigns and faces impeachment after massive bank",
+      "date": "2026-11-06"
+    },
+    {
+      "headline": "Wall Street Tumbles in Severe Tech Selloff Wiping Out Trillions",
+      "summary": "The Dow plunged over 1,800 points and the tech-heavy Nasdaq dropped roughly 5.5% in a single trading session. Investors dumped semiconductor and data-center stocks in a hurry, spooked by concerns over heavy AI spending, slowing returns, and political battles over data-center rules following the U.S. midterm elections.",
+      "why": "A single-day market plunge of this size erased about $3 trillion in market value and pushed tech stocks straight into correction territory, rattling global financial stability.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "wall street tumbles in severe tech selloff wiping out trillions",
+      "date": "2026-11-06"
     }
   ]
 }
