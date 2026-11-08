@@ -56,8 +56,8 @@ def _retry(call, attempts: int = 4, base_delay: float = 1.5):
             time.sleep(base_delay * (2**i))
 
 # Two free-tier Gemini models, each with a focused role in the pipeline.
-MODEL_FLASH = "gemini-2.5-flash"
-MODEL_LITE = "gemini-2.5-flash"
+MODEL_FLASH = "gemini-3.8-flash"
+MODEL_LITE = "gemini-3.8-flash"
 
 _client: genai.Client | None = None
 
