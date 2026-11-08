@@ -56,8 +56,8 @@ def _retry(call, attempts: int = 4, base_delay: float = 1.5):
             time.sleep(base_delay * (2**i))
 
 # Two free-tier Gemini models, each with a focused role in the pipeline.
-MODEL_FLASH = "gemini-1.5-flash"
-MODEL_LITE = "gemini-1.5-flash"
+MODEL_FLASH = "gemini-2.5-flash"
+MODEL_LITE = "gemini-2.5-flash"
 
 _client: genai.Client | None = None
 
@@ -70,7 +70,10 @@ def _get_client() -> genai.Client:
             "https://aistudio.google.com/apikey and add it to .env.local."
         )
     if _client is None:
-        _client = genai.Client(api_key=config.GEMINI_API_KEY)
+        _client = genai.Client(
+    api_key=config.GEMINI_API_KEY,
+    http_options=types.HttpOptions(api_version='v1beta')
+        ) 
     return _client
 
 
